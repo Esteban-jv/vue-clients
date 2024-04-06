@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "id": "55d1",
+      "name": "Esteban con name",
+      "lastname": "Juarez",
+      "email": "progjr10.vtsoft@gmail.com",
+      "phone": "961-186-5593",
+      "enterprise": "VTimes",
+      "employment": "Developer",
+      "status": true
+    },
+    {
+      "name": "Alain",
+      "lastname": "Correa Flores",
+      "email": "management@worldpassmail.com",
+      "phone": "984-367-3311",
+      "enterprise": "WORLDPASS TRAVEL SERVICES LLC",
+      "employment": "CEO",
+      "id": "3ec0",
+      "status": false
+    },
+    {
+      "id": "9b36",
+      "name": "Test5",
+      "lastname": "test5",
+      "email": "test5@mail.com",
+      "phone": "9841135548",
+      "status": 1
+    }
+  ]
+}

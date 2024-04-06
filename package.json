@@ -1,0 +1,27 @@
+{
+  "name": "crm-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "json-server": "npx json-server"
+  },
+  "dependencies": {
+    "@formkit/themes": "^1.6.1",
+    "@formkit/vue": "^1.6.1",
+    "axios": "^1.6.8",
+    "json-server": "^1.0.0-alpha.23",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.1.6"
+  }
+}
