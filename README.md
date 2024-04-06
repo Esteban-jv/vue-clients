@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Run the backend for this project
+
+```sh
+npx json-server --watch db.json --port 4000
+```
